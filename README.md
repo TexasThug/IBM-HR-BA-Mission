@@ -11,24 +11,23 @@ décisionnelles pour une DRH fictive.
 ## Stack
 - Power BI (dashboard)
 - Excel (backlog, dictionnaire)
-- Word / Markdown (livrables texte)
+- Word (livrables texte)
+- DAX (mesures calculées)
+- Power Query (nettoyage des données)
 
 ## Livrables
-- [ ] Note de cadrage
-- [ ] Backlog User Stories (MoSCoW)
-- [ ] Dictionnaire de données
-- [ ] Dashboard Power BI
-- [ ] Note de recommandations
-- [ ] Synthèse portfolio
+- [x] Note de cadrage
+- [x] Backlog User Stories (MoSCoW + critères d'acceptation)
+- [x] Dictionnaire de données
+- [x] Dashboard Power BI (4 pages)
+- [x] Note de recommandations
+- [x] Synthèse portfolio
+
+## Résultats clés
+- Taux d'attrition global : 16,12% (237 départs / 1 470 employés)
+- Coût estimé des départs : 7M€
+- Facteurs principaux identifiés : âge, heures supplémentaires, département Sales
+- 4 recommandations actionnables produites
 
 ## Statut
-🟡 En cours — Phase 1 : Cadrage
-```
-
-**d) Ajoute un `.gitignore`** avec :
-```
-*.pbix
-*.tmp
-~$*
-.DS_Store
-Thumbs.db
+🟢 Mission effectuée — Mars 2026
